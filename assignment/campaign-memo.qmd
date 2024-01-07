@@ -1,0 +1,38 @@
+---
+title: "Campaign Memo"
+---
+
+:::{.callout-important}
+
+Final Draft Due February 23rd at 11:59 pm on Canvas.
+
+:::
+
+[<span class="btn btn-danger">{{< fa file-pdf >}} Download PDF version of the asssignment</span></p>](/data/paper2.pdf)
+
+## Purpose
+
+
+
+
+## Task
+
+
+
+## Criteria for success
+
+A successful essay will:
+
+
+
+## Resources
+
+Here are some examples of campaign and political memos. These address various groups a campaign might target so it will be useful to look at them again. Use these examples to understand the genre and see how they are structured. Consider the following: What is important in these pieces of writing? How are those goals reflected in how the text is organized? How is it reflected in the tone of the piece?
+
+- [Biden campaign memo example](https://www.wispolitics.com/2020/biden-campaign-memo)
+- [Buttigieg campaign memo example](https://www.documentcloud.org/documents/6785938-Path-to-Nomination.html)
+- [Memo to Trump on fake electors scheme](https://int.nyt.com/data/documenttools/chesebro-dec-6-memo/ce55d6abd79c2c71/full.pdf)
+- [DeSantis memo](https://s3.documentcloud.org/documents/23874013/0051_001.pdf)
+
+
+

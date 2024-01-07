@@ -1,0 +1,85 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "POL 102: Introduction to American Politics"
+  site-url: "https://pol102.spring24.equezadallanes.com/"
+  
+  navbar:
+    pinned: true
+    background: "#633296"
+    right:
+      - text: "Syllabus"
+        file: index.qmd
+      - text: "Schedule"
+        file: schedule.qmd
+      - text: "Content"
+        file: content/01-intro.qmd
+      - text: "Assignments"
+        file: assignment/index.qmd
+      - text: "Resources"
+        file: resource/index.qmd
+
+  sidebar:
+    - title: "Assignments"
+      style: "docked"
+      search: false
+      background: dark
+      contents:
+        - section: "Overview"
+          contents:
+            - assignment/index.qmd
+        - section: "Assignments"
+          contents:
+            - assignment/op-ed.qmd
+            - assignment/campaign-memo.qmd
+            - assignment/concept-map.qmd
+            
+    - title: "Content"
+      contents:
+        - section: "Part I - Foundations"
+          contents:
+            - content/01-intro.qmd
+            - content/02-constitution.qmd
+            - content/03-federalism.qmd
+            - content/04-civil-liberties.qmd
+            - content/05-civil-rights.qmd
+        - section: "Part II - Institutions"
+          contents:
+            - content/06-congress.qmd
+            - content/07-presidency.qmd
+            - content/08-bureaucracy.qmd
+            - content/09-judiciary.qmd
+        - section: "Part III - The Public"
+          contents:
+            - content/09-representation.qmd
+            - content/10-elections.qmd
+            - content/11-multiracial-coalitions.qmd
+    
+    - title: "Resources"
+      contents:
+        - section: "Overview"
+          contents:
+            - resource/index.qmd
+            - resource/reading.qmd
+            - resource/writing.qmd
+            - resource/op-ed.qmd
+            - resource/summaries.qmd
+            - resource/citations.qmd
+            - resource/website.qmd
+
+
+format:
+  html:
+    theme:
+      - litera
+      - html/custom.scss
+    toc: true
+    highlight-style: monokai
+
+filters:
+  - newpagelink.lua
+  
+resources: 
+  - CNAME
