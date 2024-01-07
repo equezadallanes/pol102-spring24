@@ -1,5 +1,5 @@
 ---
-title: "Latino/a/e Politics in the United States"
+title: "Introduction to American Politics"
 ---
 
 ```{r setup, message=FALSE, warning=FALSE, include=FALSE}
