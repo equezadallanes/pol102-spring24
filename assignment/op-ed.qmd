@@ -1,14 +1,33 @@
 ---
 title: "Op-ed"
+format:
+    html: default
+    pdf: 
+      documentclass: article
+      fontsize: 11pt
+      colorlinks: true
+      citecolor: DarkOrchid
+      linkcolor: DarkOrchid
+      urlcolor: DarkOrchid
+      geometry: margin=1in
+      subtitle: | 
+        | POL 102 - Introduction to American Politics \vspace{1em}
+        | Professor Enrique Quezada-Llanes \vspace{-3em}
 ---
 
 :::{.callout-important}
+
+## Deadline
 
 Final Draft Due April 12th at 11:59 pm on Canvas.
 
 :::
 
-[<span class="btn btn-danger">{{< fa file-pdf >}} Download PDF version of the asssignment</span></p>](/data/paper3.pdf)
+
+::: {.content-visible when-format="html"}
+[<span class="btn btn-danger">{{< fa file-pdf >}} Download PDF version of the asssignment</span></p>](op-ed.pdf)
+:::
+
 
 ## Purpose
 
@@ -17,7 +36,7 @@ The goal of this assignment is to help you apply concepts and findings from the 
 
 ## Task
 
-*Write an op-ed for [The Profile](https://ascprofile.com/) on a topic related to the course (no actual submission to the paper necessary). Your op-ed may address a current policy debate, news story, or political science finding you think would help you and your peers understand contemporary American politics. The op-ed should be between 600-1,200 words (single-spaced, 12-point font, 1-inch margins). Use Times New Roman or Arial font.*
+Write an op-ed for [The Profile](https://ascprofile.com/) on a topic related to the course (no actual submission to the paper necessary). Your op-ed may address a current policy debate, news story, or political science finding you think would help you and your peers understand contemporary American politics. The op-ed should be between 600-1,200 words (single-spaced, 12-point font, 1-inch margins). Use Times New Roman or Arial font.
 
 An op-ed is a short opinion piece intended for the general readership of a publication. Many academics write op-eds as a way to communicate their research to people outside their field that they believe could help illuminate an important political event.
 

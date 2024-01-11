@@ -53,9 +53,12 @@ website:
             - content/09-judiciary.qmd
         - section: "Part III - The Public"
           contents:
-            - content/09-representation.qmd
-            - content/10-elections.qmd
-            - content/11-multiracial-coalitions.qmd
+            - content/10-parties.qmd
+            - content/11-opinion.qmd
+            - content/12-elections.qmd
+            - content/13-interest-groups.qmd
+            - content/14-media.qmd
+            - content/15-policy.qmd
     
     - title: "Resources"
       contents:
