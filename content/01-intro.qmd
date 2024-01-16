@@ -1,8 +1,8 @@
 ---
-title: "Introduction"
+title: "Introduction and Collective Action Problems"
 ---
 
-During the first week we will go over the syllabus, which you can check out on the homepage. We will go over a few key things to know about how political scientists think and write. This will set the foundation for the pieces we will read and discuss throughout the semester.
+During the first week we will go over the syllabus, which you can check out on the homepage. We will also discuss why collective action is needed, the problems of collective action, and how institutional design might help us overcome them.
 
 ## Wednesday, January 10
 
@@ -19,6 +19,21 @@ We will go over the syllabus and class.
 1. Logic of American Politics, Chapter 1. {{< fa book >}}
 
 
+---
 
-    
-    
+## Key terms and concepts
+
+1. Collective action
+2. Prisoner's dilemma
+3. Free-rider problem
+4. The tragedy of the commons
+5. Institutional design
+6. Public and private goods
+
+
+## Questions for critical thinking
+
+1. Why can't we solve our disputes through simple bargaining all the time? What factors undermine bargaining in different settings?^[From the textbook's review questions]
+2. How can government institutions help solve collective action problems?
+3. In the context of a democracy, when can we say an institution is effective as solving collective action problems and when does it fail to do so?
+
