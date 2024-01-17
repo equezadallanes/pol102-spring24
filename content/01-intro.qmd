@@ -37,3 +37,8 @@ We will go over the syllabus and class.
 2. How can government institutions help solve collective action problems?
 3. In the context of a democracy, when can we say an institution is effective as solving collective action problems and when does it fail to do so?
 
+
+## Slides
+
+[<span class="btn btn-danger">{{< fa file-pdf >}} PDF of slides </span></p>](https://agnesscott.instructure.com/files/648420/download?download_frd=1)
+
