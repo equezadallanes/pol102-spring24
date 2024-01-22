@@ -26,4 +26,19 @@ NO CLASS. MLK Day.
 1. Federalist Papers #10, 51. [{{< fa arrow-up-right-from-square >}}](https://guides.loc.gov/federalist-papers/full-text)
 
 
+---
+
+## Questions for critical thinking
+
+1. Why did the Founding Fathers choose a federal system with separation of powers as the system of government for the United States under the Constitution as opposed to a different system?
+2. What collective action problems did the national government set up under the Constitution seek to solve? Why couldn't the states solve this in a different way?
+3. From the Federalist Paper #10, what was James Madison most concerned about and how did he think the system proposed by the Constitution addressed this problem?
+4. Thinking about where we are today (e.g., in the aftermath of Black Lives Matter and the January 6th Insurrection), what do you make of Madison's concerns about the "tyranny of the majority"?
+
+
+## Slides
+
+[<span class="btn btn-danger">{{< fa file-pdf >}} PDF of slides </span></p>](https://agnesscott.instructure.com/files/650143/download?download_frd=1)
+
+
 

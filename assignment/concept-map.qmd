@@ -1,5 +1,18 @@
 ---
 title: "Concept Map"
+format:
+    html: default
+    pdf: 
+      documentclass: article
+      fontsize: 11pt
+      colorlinks: true
+      citecolor: DarkOrchid
+      linkcolor: DarkOrchid
+      urlcolor: DarkOrchid
+      geometry: margin=1in
+      subtitle: | 
+        | POL 102 - Introduction to American Politics \vspace{1em}
+        | Professor Enrique Quezada-Llanes \vspace{-3em}
 ---
 
 :::{.callout-important}
@@ -12,16 +25,28 @@ Part III due May 1st at 5:00 pm on Canvas
 
 ## Purpose
 
+The goal of this assignment is to help you think, critically and visually, about the connections between the various principles, institutions, and actors of American politics. You will need to identify the concepts you think are key to understanding American politics.
 
 
 ## Task
 
+Build a concept map for each of the three major parts of the course (i.e, the foundations of American governments, the institutions, and the public). You can either draw this concept map or you can use a platform like [Miro](https://miro.com/aq/ps/concept-map-1/) to do it. Your concept map can include concepts, events, political figures, other political actors, examples, or anything else that you think is important.
+
+Your concept map should be submitted as a PDF on Canvas.
 
 
 ## Criteria for success
 
-A successful theory and research design sections will:
+A successful concept map (each submission) will:
 
+1. Include at least 20 unique nodes (these are the boxes or circles that represent a concept, object, or idea)
+2. Have a coherent hierarchical structure
+3. Have no grammatical errors
+
+
+## Resources
+
+- [Concept Maps "handout"](https://learningcenter.unc.edu/tips-and-tools/using-concept-maps/) by The Learning Center, University of North Carolina at Chapel Hill
 
 
 

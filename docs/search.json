@@ -59,7 +59,7 @@
     "href": "index.html",
     "title": "Introduction to American Politics",
     "section": "",
-    "text": "MWF\n   January 9–May 8, 2023\n   10:30 AM – 11:20 AM\n   Buttrick Hall, Room 203\n\n\n\n\n\n   Enrique Quezada-Llanes\n   Buttrick Hall 315\n   &lt;a href=“mailto:equezada@agnesscott.edu”&gt;equezada@agnesscott.edu\n   Office hours: Thursdays 10 am - 12 pm"
+    "text": "MWF\n   January 9–May 8, 2023\n   10:30 AM – 11:20 AM\n   Buttrick Hall, Room 203\n\n\n\n\n\n   Enrique Quezada-Llanes\n   Buttrick Hall 315\n   equezada@agnesscott.edu\n   Office hours: Thursdays 10 am - 12 pm"
   },
   {
     "objectID": "index.html#course-overview",
@@ -683,6 +683,30 @@
     ]
   },
   {
+    "objectID": "content/02-constitution.html#questions-for-critical-thinking",
+    "href": "content/02-constitution.html#questions-for-critical-thinking",
+    "title": "The Constitution",
+    "section": "Questions for critical thinking",
+    "text": "Questions for critical thinking\n\nWhy did the Founding Fathers choose a federal system with separation of powers as the system of government for the United States under the Constitution as opposed to a different system?\nWhat collective action problems did the national government set up under the Constitution seek to solve? Why couldn’t the states solve this in a different way?\nFrom the Federalist Paper #10, what was James Madison most concerned about and how did he think the system proposed by the Constitution addressed this problem?\nThinking about where we are today (e.g., in the aftermath of Black Lives Matter and the January 6th Insurrection), what do you make of Madison’s concerns about the “tyranny of the majority”?",
+    "crumbs": [
+      "Content",
+      "Part I - Foundations",
+      "The Constitution"
+    ]
+  },
+  {
+    "objectID": "content/02-constitution.html#slides",
+    "href": "content/02-constitution.html#slides",
+    "title": "The Constitution",
+    "section": "Slides",
+    "text": "Slides\n PDF of slides",
+    "crumbs": [
+      "Content",
+      "Part I - Foundations",
+      "The Constitution"
+    ]
+  },
+  {
     "objectID": "content/07-presidency.html",
     "href": "content/07-presidency.html",
     "title": "The Presidency",
@@ -1010,7 +1034,7 @@
     "href": "assignment/concept-map.html#purpose",
     "title": "Concept Map",
     "section": "Purpose",
-    "text": "Purpose",
+    "text": "Purpose\nThe goal of this assignment is to help you think, critically and visually, about the connections between the various principles, institutions, and actors of American politics. You will need to identify the concepts you think are key to understanding American politics.",
     "crumbs": [
       "Assignments",
       "Concept Map"
@@ -1021,7 +1045,7 @@
     "href": "assignment/concept-map.html#task",
     "title": "Concept Map",
     "section": "Task",
-    "text": "Task",
+    "text": "Task\nBuild a concept map for each of the three major parts of the course (i.e, the foundations of American governments, the institutions, and the public). You can either draw this concept map or you can use a platform like Miro to do it. Your concept map can include concepts, events, political figures, other political actors, examples, or anything else that you think is important.\nYour concept map should be submitted as a PDF on Canvas.",
     "crumbs": [
       "Assignments",
       "Concept Map"
@@ -1032,7 +1056,18 @@
     "href": "assignment/concept-map.html#criteria-for-success",
     "title": "Concept Map",
     "section": "Criteria for success",
-    "text": "Criteria for success\nA successful theory and research design sections will:",
+    "text": "Criteria for success\nA successful concept map (each submission) will:\n\nInclude at least 20 unique nodes (these are the boxes or circles that represent a concept, object, or idea)\nHave a coherent hierarchical structure\nHave no grammatical errors",
+    "crumbs": [
+      "Assignments",
+      "Concept Map"
+    ]
+  },
+  {
+    "objectID": "assignment/concept-map.html#resources",
+    "href": "assignment/concept-map.html#resources",
+    "title": "Concept Map",
+    "section": "Resources",
+    "text": "Resources\n\nConcept Maps “handout” by The Learning Center, University of North Carolina at Chapel Hill",
     "crumbs": [
       "Assignments",
       "Concept Map"
