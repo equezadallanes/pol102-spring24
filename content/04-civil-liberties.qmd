@@ -18,3 +18,14 @@ title: "Civil Liberties"
 
 No assigned reading.
 
+
+
+---
+
+## Slides
+
+[<span class="btn btn-danger">{{< fa file-pdf >}} PDF of slides </span></p>](https://agnesscott.instructure.com/files/652328/download?download_frd=1)
+
+
+
+
