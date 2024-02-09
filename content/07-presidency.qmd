@@ -2,12 +2,12 @@
 title: "The Presidency"
 ---
 
+UPDATED SCHEDULE
 
 ## Monday, February 12
 
-### Readings
+No assigned reading.
 
-1. Logic of American Politics, Chapter 7. {{< fa book >}}
 
 
 ---
@@ -17,7 +17,8 @@ title: "The Presidency"
 
 ### Readings
 
-1. William G. Howell. 2003.*Power without Persuasion: The Politics of Direct Presidential Action.* Princeton University Press. Chapter 1. {{< fa file-pdf >}} available on Canvas.
+1. Logic of American Politics, Chapter 7. {{< fa book >}}
+
 
 
 ---
@@ -25,4 +26,7 @@ title: "The Presidency"
 
 ## Friday, February 16
 
-No assigned reading.
+
+### Readings
+
+1. William G. Howell. 2003.*Power without Persuasion: The Politics of Direct Presidential Action.* Princeton University Press. Chapter 1. {{< fa file-pdf >}} available on Canvas.
