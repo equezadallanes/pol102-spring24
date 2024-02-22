@@ -30,3 +30,11 @@ No assigned reading.
 ### Readings
 
 1. William G. Howell. 2003.*Power without Persuasion: The Politics of Direct Presidential Action.* Princeton University Press. Chapter 1. {{< fa file-pdf >}} available on Canvas.
+
+
+---
+
+### Slides
+
+[<span class="btn btn-danger">{{< fa file-pdf >}} Slides </span></p>](https://agnesscott.instructure.com/files/664274/download?download_frd=1)
+

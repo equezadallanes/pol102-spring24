@@ -19,3 +19,10 @@ title: "The Bureaucracy"
 1. White, Ariel R., Noah L. Nathan, and Julie K. Faller. 2015 "What Do I Need to Vote? Bureaucratic Discretion and Discrimination by Local Election Officials." *American Political Science Review* 109(1): 129-142. [{{< fa university >}}](https://go.openathens.net/redirector/agnesscott.edu?url=https%3A%2F%2Fwww.jstor.org%2Fstable%2F43655028)
 
 
+---
+
+### Slides
+
+[<span class="btn btn-danger">{{< fa file-pdf >}} Slides </span></p>](https://agnesscott.instructure.com/files/664275/download?download_frd=1)
+
+
