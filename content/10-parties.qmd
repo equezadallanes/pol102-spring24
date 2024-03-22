@@ -33,3 +33,11 @@ No assigned reading.
 
 **Campaign memo due March 25 at 11:59 pm on Canvas.**
 
+
+---
+
+### Slides
+
+[<span class="btn btn-danger">{{< fa file-pdf >}} Slides </span></p>](https://agnesscott.instructure.com/files/673230/download?download_frd=1)
+
+

@@ -34,3 +34,11 @@ Review for Midterm Exam.
 ## Friday, March 1
 
 Midterm Exam on Canvas.
+
+---
+
+### Slides
+
+[<span class="btn btn-danger">{{< fa file-pdf >}} Slides </span></p>](https://agnesscott.instructure.com/files/673229/download?download_frd=1)
+
+
