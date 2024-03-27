@@ -17,3 +17,9 @@ While there is no single way to write an op-ed, the following structure may help
     - Connect your conclusion back to the lede.
 
 
+## Example
+
+Margolis, Michele. 2018. "When Politicians Determine Your Religious Beliefs." *The New York Times.* [{{< fa arrow-up-right-from-square >}}](https://www.nytimes.com/2018/07/11/opinion/religion-republican-democrat.html)
+
+- This is an op-ed written by Michele Margolis, a political scientist at the University of Pennsylvania. In this op-ed she discusses her research to support her argument. Can you identify the argument? Where does it appear?
+
