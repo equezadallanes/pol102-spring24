@@ -28,3 +28,11 @@ UPDATED: March 21, 2024
 
 NO CLASS. Spring Holiday.
 
+
+---
+
+### Slides
+
+[<span class="btn btn-danger">{{< fa file-pdf >}} Slides </span></p>](https://agnesscott.instructure.com/files/677508/download?download_frd=1)
+
+

@@ -26,5 +26,13 @@ title: "Voting, Elections, and Campaigns"
 
 No assigned reading.
 
+NO IN-PERSON MEETING.
  
  
+---
+
+### Slides
+
+[<span class="btn btn-danger">{{< fa file-pdf >}} Slides - Vote Choice </span></p>](https://agnesscott.instructure.com/files/677509/download?download_frd=1)
+
+
