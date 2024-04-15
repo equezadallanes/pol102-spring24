@@ -8,6 +8,14 @@ title: "The Media"
 
 1. Logic of American Politics, Chapter 14. {{< fa book >}}
 
+### Resources
+
+1. *CrashCourse.* "Media Institution." [{{< fa brands youtube >}}](https://www.youtube.com/watch?v=6F0g4N415uw)
+2. *PBS.* "When did the News Start? [{{< fa brands youtube >}}](https://www.youtube.com/watch?v=zUFV3T2XQw4)
+3. *PEW.* "News Platform Fact Sheet." [{{< fa arrow-up-right-from-square >}}](https://www.pewresearch.org/journalism/fact-sheet/news-platform-fact-sheet/)
+4. *PEW.* "Social Media and News Fact Sheet." [{{< fa arrow-up-right-from-square >}}](https://www.pewresearch.org/journalism/fact-sheet/social-media-and-news-fact-sheet/)
+5. *PEW.* "Americans Who Mainly Get Their News on Social Media Are Less Engaged, Less Knowledgeable." [{{< fa arrow-up-right-from-square >}}](https://www.pewresearch.org/journalism/2020/07/30/americans-who-mainly-get-their-news-on-social-media-are-less-engaged-less-knowledgeable/)
+6. Sanders, Linley. "Americans Who Mainly Get Their News on Social Media Are Less Engaged, Less Knowledgeable." *YouGov.* [{{< fa arrow-up-right-from-square >}}](https://today.yougov.com/politics/articles/41957-trust-media-2022-where-americans-get-news-poll)
 
 
 ---
