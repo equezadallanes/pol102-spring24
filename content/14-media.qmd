@@ -35,3 +35,5 @@ title: "The Media"
 ## Friday, April 19
 
 **Bring a full draft of your op-ed to class and submit a copy on Canvas.**
+
+- [Peer review guide](../resource/peer_review.qmd)

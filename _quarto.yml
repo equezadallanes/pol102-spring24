@@ -68,6 +68,7 @@ website:
             - resource/reading.qmd
             - resource/writing.qmd
             - resource/op-ed.qmd
+            - resource/peer_review.qmd
             - resource/summaries.qmd
             - resource/citations.qmd
             - resource/website.qmd
